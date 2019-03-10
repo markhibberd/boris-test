@@ -1,0 +1,17 @@
+[boris]
+  version = 1
+
+[build.dist]
+  command = [
+      ["echo", "dist"]
+    ]
+
+[build.branches]
+  command = [
+      ["echo", "branch"]
+    ]
+
+[build.all]
+  command = [
+      ["echo", "all"]
+    ]
